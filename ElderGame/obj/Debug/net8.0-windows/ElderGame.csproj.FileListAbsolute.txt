@@ -1,0 +1,133 @@
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\bin\Debug\net8.0-windows\ElderGame.exe
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\bin\Debug\net8.0-windows\ElderGame.deps.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\bin\Debug\net8.0-windows\ElderGame.runtimeconfig.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\bin\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\bin\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.MainForm.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.GenerateResource.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfo.cs
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\refint\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.genruntimeconfig.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ref\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game1Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\ElderGame.exe
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\ElderGame.deps.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\ElderGame.runtimeconfig.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game1Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.MainForm.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.GenerateResource.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfo.cs
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\refint\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.genruntimeconfig.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ref\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.Up2Date
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game2Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game3Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGame - 複製\ElderGame\obj\Debug\net8.0-windows\ElderGame.Properties.Resources.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.exe
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.deps.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.runtimeconfig.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game1Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game2Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game3Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.MainForm.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Properties.Resources.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.GenerateResource.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfo.cs
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.Up2Date
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\refint\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.genruntimeconfig.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ref\ElderGame.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.exe
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.deps.json
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.runtimeconfig.json
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\ElderGame.pdb
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.AssemblyReference.cache
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game1Form.resources
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game2Form.resources
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game3Form.resources
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.MainForm.resources
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.Properties.Resources.resources
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.GenerateResource.cache
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfoInputs.cache
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfo.cs
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.CoreCompileInputs.cache
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.Up2Date
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\refint\ElderGame.dll
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.pdb
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ElderGame.genruntimeconfig.cache
+D:\fourth_grade_second_semester\物件導向\ElderGamefinal\ElderGame\obj\Debug\net8.0-windows\ref\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\ElderGame.exe
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\ElderGame.deps.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\ElderGame.runtimeconfig.json
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.AssemblyReference.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game1Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game2Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.Game3Form.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.MainForm.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.Properties.Resources.resources
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.GenerateResource.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfoInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.AssemblyInfo.cs
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.csproj.Up2Date
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\refint\ElderGame.dll
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.pdb
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ElderGame.genruntimeconfig.cache
+C:\Users\ASUS\薇如\文件\大學\C#\ElderGamefinal(1)\ElderGame\obj\Debug\net8.0-windows\ref\ElderGame.dll
